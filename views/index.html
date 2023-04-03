@@ -68,6 +68,10 @@
             if(result.length >0 ){
               //console.log(result);
               const listaCursos = result;
+
+              //Antes de ejecutar el recorrido de registros, reiniciar la tabla 
+              $("#tabla-cursos tbody").html("");
+
               listaCursos.forEach(curso => { 
                 //Construimos una nueva fila             
                 let nuevaFila = ``;
