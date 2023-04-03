@@ -1,5 +1,5 @@
 <?php
-
+// Clase= Plantilla => creamos objetos  Compone => Atributos, metodos(verbo)
 Class Curso{
 
   //Atributo
