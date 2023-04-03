@@ -1,0 +1,40 @@
+{
+  "infopersonal" : {
+    "datos" : {
+      "apellidaos" : "Llanos Mendoza",
+      "nombres"    : "Josefina Abigail",
+      "edad"       : 18,
+      "telefono"   : "924895686"
+    },
+    "mifamilia" : {
+      "mamá"       : "Balbina Ysabel",
+      "papá"       : "Jorge Mario",
+      "hermanas"   : ["Karina", "Veronica", "Elisa", "Grecia"],
+      "hermano"    : "Jorge David",
+      "sobrinas"   : ["Luciana", "Sasha", "Maria Ysabel", "Dasha", "Sophia"]
+    }
+  },
+  "formacion" : {
+    "primaria"     : ["IEP Chinchaysuyo"],
+    "secundaria"   : ["IEP Chinchaysuyo"],
+    "superior"     : ["SENATI"] 
+  },
+  "habilidades" : {
+    "deportivas"   :{
+    "futbol"       :      ["Equipo A", "Equipo B", "Equipo C"],
+    "karate"       :      ["Cinta verde", "Cinta marron", "Cinta negra"]
+    },
+
+  "sociales"    : {
+    "intrapersonales"   : ["autocontrol", "autoestima", "resilencia"],
+    "interpersonales"   : ["liderazgo", "trabajo en equipo"]
+    },
+  
+    "profecional"   :{
+      "programador"    : {
+        "lenguaje"     : ["PHP", "C++", "Python", "JS", "CSS", "SQL"],
+        "basedatos"    : ["MySQL", "MS SQL Server", "Oracle DB", "SQLite"]
+      }
+    }
+  }
+}
